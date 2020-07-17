@@ -13,7 +13,7 @@ public int sumarPuntos(){
 }
 
 public int calcularNota(){
-    return 10; //Calcular con todos los criterios y elegir el mas alto o sacar el promedio segun corresponda
+    return 5;     //Calcular con todos los criterios y elegir el mas alto o sacar el promedio segun corresponda
 
     }
 

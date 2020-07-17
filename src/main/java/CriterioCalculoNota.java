@@ -1,3 +1,3 @@
 public interface CriterioCalculoNota {
-    public int calcularNota(int Peso);
+    public int calcularNota(int PesoMaximo, int PesoObtenido);
 }
